@@ -35,9 +35,5 @@ The purpose of this project is to turn raw sales data into meaningful insights t
 
 ---
 
-## 📷 Dashboard Preview
+<img width="579" height="397" alt="image" src="https://github.com/user-attachments/assets/882d54ab-0060-4cbc-baf4-d7d9ac62cf87" />
 
-_Add an image of your dashboard here if available:_
-
-```markdown
-![Excel Dashboard Screenshot](./assets/dashboard.png)
